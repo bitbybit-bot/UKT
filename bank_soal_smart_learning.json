@@ -1,0 +1,189 @@
+[
+  {
+    "question": "Dari hasil analisis yang terdapat pada LHA PT. GINI, diketahui bahwa PT. ADEK memiliki saham PT. FGD sebanyak 50% dan PT. GINI sebanyak 25%. PT. FGD memiliki saham PT. HKT sebanyak 50%. Dari LHA tersebut juga diketahui bahwa PT. GINI terdapat perjanjian penggunaan teknologi dengan PT. HKT. Atas informasi tersebut, aspek yang paling penting dalam tindak lanjut LHA tersebut adalah ....",
+    "options": [
+      "Menuangkan analisis kesebandingan dalam LHP",
+      "Tidak perlu dilakukan analisis kesebandingan karena masih sama-sama di dalam negeri",
+      "Tidak perlu dibuat analisis kesebandingan karena memerlukan waktu yang cukup panjang",
+      "Perlu dilakukan analisis kesebandingan sepanjang dari keempat Wajib Pajak tersebut memiliki afiliasi di luar negeri"
+    ],
+    "answer": 0,
+    "explanation": "Terdapat hubungan istimewa dan transaksi afiliasi sehingga analisis kesebandingan tetap perlu dilakukan dan dituangkan dalam LHP. Hubungan istimewa dapat terjadi karena kepemilikan saham langsung/tidak langsung maupun penguasaan teknologi."
+  },
+  {
+    "question": "Wajib Pajak Pengembangkan (Developer) sering kali melakukan penjualan melalui skema pre-project selling (jual sebelum dibangun). Akun di neraca yang wajib dianalisis oleh AR untuk mendeteksi potensi PPN yang tertunda adalah ....",
+    "options": [
+      "Biaya Dibayar di Muka (Prepaid Expenses)",
+      "Investasi Jangka Panjang (Long-term Investment)",
+      "Laba Ditahan (Retained Earnings)",
+      "Uang Muka Pelanggan (Customer Deposit)"
+    ],
+    "answer": 3,
+    "explanation": "Akun Uang Muka Pelanggan (Customer Deposit) menunjukkan penerimaan pembayaran dari pembeli sebelum bangunan selesai. Secara ketentuan PPN, saat penerimaan pembayaran uang muka merupakan saat terutangnya PPN, sehingga akun ini berpotensi menimbulkan PPN yang belum dipungut/disetor."
+  },
+  {
+    "question": "Berikut merupakan data Wajib Pajak untuk dilakukan analisis:\n1. Pembayaran PNBP Royalti Pertambangan Minerba dari ESDM sebesar Rp1 miliar.\n2. Harga satuan nikel London Metal Exchange (LME) sebesar US$18.000 per metric ton.\n3. Harga Acuan Mineral (HMA) nikel yang dikeluarkan oleh ESDM sebesar US$16.999 per metric ton.\nPernyataan berikut yang paling tepat adalah ....",
+    "options": [
+      "Data 1, 2, dan 3 dapat dipakai sebagai data pembanding omzet penjualan nikel.",
+      "Data 1 and 2 dapat dipakai sebagai data pembanding penjualan nikel.",
+      "Data 1 hanya dapat dipakai untuk perhitungan biaya perusahaan, sedangkan data 2 dan 3 untuk pembanding penjualan nikel.",
+      "Data 1 dan 3 dapat dijadikan pembanding penjualan, dan data 2 tidak dapat dijadikan pembanding karena berasal dari luar negeri."
+    ],
+    "answer": 3,
+    "explanation": "Data ESDM (PNBP Royalti dan HMA) merupakan acuan resmi yang berlaku di dalam negeri untuk komoditas minerba, sedangkan harga LME merupakan bursa internasional yang tidak dapat dijadikan pembanding langsung tanpa penyesuaian yang rumit."
+  },
+  {
+    "question": "Berikut data terkait Wajib Pajak yang sedang dalam proses analisis oleh AR:\n1. KLU di masterfile adalah jasa hukum (Notaris).\n2. SPT Tahunan menggunakan Norma Penghitungan Penghasilan Neto (NPPN) sebesar 50%.\n3. Ditemukan laporan keuangan Wajib Pajak tersebut di situs asosiasi.\n4. Terdapat bukti potong dari Bank UIC dengan DPP melebihi omzet yang dilaporkan dalam SPT.\nIdentifikasi dua risiko ketidakpatuhan dari Wajib Pajak tersebut!",
+    "options": [
+      "Lapor menggunakan NPPN tetapi memiliki pembukuan, serta salah menggunakan tarif NPPN.",
+      "Lapor menggunakan NPPN tetapi memiliki pembukuan, serta tidak mengkreditkan pemotongan oleh Bank UIC.",
+      "Lapor menggunakan NPPN tetapi memiliki pembukuan, serta memiliki dua laporan keuangan, yaitu laporan asosiasi dan laporan pajak.",
+      "Lapor menggunakan NPPN tetapi memiliki pembukuan, serta tidak melaporkan seluruh omzet."
+    ],
+    "answer": 3,
+    "explanation": "Adanya laporan keuangan eksternal mengindikasikan Wajib Pajak sebenarnya menyelenggarakan pembukuan (sehingga tidak berhak menggunakan NPPN), sedangkan DPP bukti potong bank yang melebihi omzet SPT menunjukkan indikasi kuat adanya omzet tersembunyi yang belum dilaporkan."
+  },
+  {
+    "question": "Apa tujuan utama digunakannya metode Pendekatan Pertambahan Kekayaan Bersih (Net Worth Method) dalam pemeriksaan pajak Wajib Pajak Orang Pribadi?",
+    "options": [
+      "Untuk menghitung nilai penyusutan aktiva tetap yang dimiliki.",
+      "Untuk mengaudit kebenaran laporan arus kas.",
+      "Untuk menguji kewajaran penghasilan neto Wajib Pajak Orang Pribadi.",
+      "Untuk menentukan besarnya utang pajak akibat revaluasi aktiva tetap."
+    ],
+    "answer": 2,
+    "explanation": "Net Worth Method digunakan untuk menguji kewajaran penghasilan neto Wajib Pajak Orang Pribadi dengan cara membandingkan akumulasi atau kenaikan nilai kekayaan bersih (harta minus utang) ditambah biaya hidup dengan penghasilan yang dilaporkan di SPT."
+  },
+  {
+    "question": "Data hasil KPD atas Wajib Pajak Orang Pribadi non-PKP di Muara Teweh menunjukkan adanya pembelian alat pembasmi serangga untuk kebun kelapa sawit sebesar Rp350.000.000 dari PT Seruni yang terdaftar di KPP Pratama Surabaya Krembangan. Selama ini diketahui PT Seruni hanya melaporkan penjualan ekspor kepada afiliasinya di Malaysia. Risiko ketidakpatuhan apa yang dapat diidentifikasi oleh AR di KPP Pratama Surabaya Krembangan?",
+    "options": [
+      "Wajib Pajak tidak melaporkan penjualan dalam negeri sehingga ada potensi PPN, dan kemungkinan omzet belum seluruhnya dilaporkan.",
+      "Omzet belum seluruhnya dilaporkan, namun penjualan dalam negeri tidak dikenai PPN karena pembeli bukan PKP.",
+      "Pembeli bukan PKP sehingga tidak ada potensi PPN, namun ada potensi omzet yang belum dilaporkan.",
+      "Penjualan kepada afiliasi membutuhkan analisis kesebandingan, dan penjualan dalam negeri kepada non-PKP tidak terutang PPN."
+    ],
+    "answer": 0,
+    "explanation": "Penjualan domestik Barang Kena Pajak (BKP) oleh Pengusaha Kena Pajak (PKP) tetap wajib dipungut PPN tanpa melihat apakah pembelinya PKP atau non-PKP. Hal ini juga menjadi indikasi bahwa PT Seruni tidak melaporkan seluruh omzet penjualan lokalnya di SPT."
+  },
+  {
+    "question": "Hasil analisis vertikal laporan laba rugi PT Bauksitindo yang bergerak di bidang pertambangan bauksit menunjukkan data sebagai berikut:\n- Omzet: Rp10.000.000.000\n- Gross Profit (Laba Kotor): Rp1.000.000.000\n- Net Profit (Laba Bersih): Rp500.000.000\nDiketahui bahwa laba bersih yang wajar untuk perusahaan pertambangan bauksit di Indonesia berkisar antara 8%–25% dari omzet. Perkiraan risiko Wajib Pajak dilihat dari laba bersih adalah ....",
+    "options": [
+      "Menengah",
+      "Rendah",
+      "Sedang",
+      "Tinggi"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan analisis vertikal, Net Profit Margin (NPM) PT Bauksitindo hanya sebesar 5% (Rp500 juta / Rp10 miliar). Angka ini berada di bawah batas bawah kewajaran industri pertambangan bauksit (8%-25%), sehingga profil risikonya dinilai Tinggi."
+  },
+  {
+    "question": "Dalam hal pembahasan pada kegiatan Pengawasan Wajib Pajak dilakukan secara daring, konsep Berita Acara Pelaksanaan Permintaan Penjelasan atas Data dan/atau Keterangan dapat disampaikan kepada Wajib Pajak untuk ditandatangani. Apabila setelah 5 (lima) hari kerja sejak konsep Berita Acara tersebut dikirimkan Wajib Pajak tidak menyampaikan kembali konsep Berita Acara yang telah ditandatangani, maka ....",
+    "options": [
+      "Wajib Pajak dianggap menghadiri pembahasan.",
+      "Wajib Pajak diberikan undangan untuk menghadiri pembahasan kedua.",
+      "Pembahasan dianggap belum dilakukan.",
+      "Pembahasan dianggap telah dilakukan."
+    ],
+    "answer": 3,
+    "explanation": "Sesuai dengan ketentuan formal pengawasan berbasis surat penjelasan (SP2DK) secara daring, jika Wajib Pajak tidak mengembalikan konsep Berita Acara yang telah ditandatangani dalam waktu 5 hari kerja sejak dikirimkan, maka pembahasan dianggap telah dilakukan."
+  },
+  {
+    "question": "Javier, AR KPP Pratama Timika, memperoleh data hasil KPD dari KPP Pratama Kebon Jeruk berupa omzet harian dari toko milik Wajib Pajak yang terdaftar di KPP Pratama Timika sebesar Rp10.000.000. Kegiatan KPD dilakukan pada tanggal 16 Juli 2025. Apa yang dapat dilakukan Javier terkait data tersebut?",
+    "options": [
+      "Menggunakan data tersebut untuk menghitung perkiraan omzet tahun 2025 atas toko tersebut.",
+      "Melakukan konfirmasi kepada KPP Pratama Kebon Jeruk atas omzet tahun 2025.",
+      "Memindahkan tempat terdaftar Wajib Pajak ke KPP Pratama Kebon Jeruk.",
+      "Mengusulkan pemeriksaan data konkret atas data KPD tersebut."
+    ],
+    "answer": 0,
+    "explanation": "Data harian dari Kegiatan Pengumpulan Data (KPD) di lapangan berfungsi sebagai data pembanding/estimasi untuk melakukan ekstrapolasi atau penghitungan perkiraan omzet usaha riil dalam satu periode tahun pajak berjalan sebagai bahan analisis pengawasan."
+  },
+  {
+    "question": "Teknik analisis laporan keuangan yang membandingkan akun-akun laporan keuangan dari tahun ke tahun untuk melihat pola kenaikan atau penurunan adalah ....",
+    "options": [
+      "Analisis Horizontal (Trend Analysis)",
+      "Analisis Vertikal (Common Size)",
+      "Analisis Rasio",
+      "Analisis Tertimbang"
+    ],
+    "answer": 0,
+    "explanation": "Analisis Horizontal (Trend Analysis) mengevaluasi performa akun laporan keuangan yang sama melintasi beberapa periode (tahun ke tahun) untuk mengidentifikasi arah pergerakan, pertumbuhan, atau tren penurunan."
+  },
+  {
+    "question": "Berdasarkan hasil LHA Wajib Pajak Grup diketahui terdapat situasi yang mengakibatkan corresponding adjustment, di mana Wajib Pajak yang Anda awasi mengalami koreksi negatif. Langkah yang paling tepat untuk dilakukan pada kondisi tersebut adalah ....",
+    "options": [
+      "Mencari alternatif koreksi positif lainnya yang akan menutup besarnya koreksi negatif.",
+      "Meminta pertimbangan pimpinan dengan memberikan pandangan bahwa koreksi ini dapat dilakukan apabila masuk ke tahap pemeriksaan.",
+      "Tidak melanjutkan pembuatan LHPt karena akan memberikan peluang restitusi.",
+      "Melanjutkan tindakan penelitian dengan menyiapkan mitigasi atas risiko yang mungkin muncul."
+    ],
+    "answer": 3,
+    "explanation": "Koreksi negatif akibat penyesuaian sepihak (corresponding adjustment) harus disikapi secara objektif. Proses penelitian/penilaian kepatuhan tetap harus dilanjutkan secara profesional dengan menyusun mitigasi risiko administratif perpajakan yang sesuai."
+  },
+  {
+    "question": "Salah satu bukti transaksi atau data perpajakan yang dapat digunakan untuk menghitung kewajiban perpajakan serta dapat ditindaklanjuti melalui pemeriksaan data konkret adalah ....",
+    "options": [
+      "Pengkreditan Pajak Masukan (PM) yang tidak sesuai ketentuan.",
+      "Perhitungan Harga Pokok Penjualan (HPP) dalam laporan laba rugi.",
+      "Rasio perhitungan Debt to Equity Ratio (DER) yang melebihi 4:1.",
+      "Ekualisasi omzet PPh Badan dengan penyerahan PPN."
+    ],
+    "answer": 0,
+    "explanation": "Pengkreditan Pajak Masukan yang tidak sah/tidak sesuai ketentuan merupakan klasifikasi data konkret karena didasarkan langsung pada dokumen transaksi resmi (Faktur Pajak) yang validitasnya dapat dibuktikan seketika tanpa analisis mendalam."
+  },
+  {
+    "question": "Pada saat ditugaskan untuk menerbitkan LHPt Wajib Pajak Orang Pribadi (WPOP), AR tidak mendapatkan informasi terkait data pemicu atau data penguji. AR berinisiatif melakukan analisis secara mandiri menggunakan metode Net Worth Method. Prinsip dasar utama dari rekomendasi metode ini adalah ....",
+    "options": [
+      "Menghitung selisih laba kotor komparatif antar industri.",
+      "Penghasilan WPOP dihitung dengan menjumlahkan penambahan kekayaan bersih dengan biaya hidup.",
+      "Mengekualisasikan nilai PPh Pasal 21 masa dengan total biaya gaji di laporan keuangan.",
+      "Menghitung nilai penyusutan aktiva tetap bangunan secara komparatif."
+    ],
+    "answer": 1,
+    "explanation": "Prinsip dasar Net Worth Method (Pertambahan Kekayaan Bersih) bersandar pada logika ekonomi bahwa penghasilan yang diperoleh seseorang akan habis digunakan untuk dua hal: dikonsumsi (biaya hidup) atau disimpan dalam bentuk aset (menambah kekayaan bersih)."
+  },
+  {
+    "question": "Jika dalam proses pemeriksaan, Wajib Pajak menolak untuk dilakukan pemeriksaan dan menolak meminjamkan buku, catatan, atau dokumen yang menjadi dasar pembukuan dengan alasan rahasia bank atau rahasia perusahaan, tindakan hukum awal yang paling tepat dilakukan oleh Pemeriksa Pajak adalah ....",
+    "options": [
+      "Meminta Wajib Pajak menandatangani dan menyampaikan Surat Pernyataan Penolakan Pemeriksaan.",
+      "Menyita dokumen Wajib Pajak yang berkaitan dengan pembukuan dan pelaporan pajaknya.",
+      "Langsung menetapkan pajak secara jabatan.",
+      "Menghentikan pemeriksaan dan langsung mengusulkan pemeriksaan bukti permulaan."
+    ],
+    "answer": 0,
+    "explanation": "Apabila Wajib Pajak melakukan penolakan secara terang-terangan ataupun terselubung (menolak meminjamkan dokumen), Pemeriksa berkewajiban mengamankan jalur formil terlebih dahulu dengan meminta penandatanganan Surat Pernyataan Penolakan Pemeriksaan sebagai basis prosedur penetapan secara jabatan atau usulan tindakan berikutnya."
+  },
+  {
+    "question": "Saat menganalisis potensi pajak sektor pertambangan batu bara, Anda sebagai Account Representative (AR) menemukan indikasi understated revenue. Untuk membuktikan volume penjualan ekspor yang sebenarnya, AR harus melakukan cross-matching data SPT Tahunan PPh Badan dengan dokumen ....",
+    "options": [
+      "Rencana Kerja dan Anggaran Biaya (RKAB) tahun berikutnya.",
+      "Surat Izin Penambangan Daerah.",
+      "Invoice internal.",
+      "Laporan Surveyor (Surveyor Report) dan Bill of Lading (B/L)."
+    ],
+    "answer": 3,
+    "explanation": "Laporan Surveyor (Surveyor Report) mengesahkan kualitas dan kuantitas muatan tambang yang dimuat, sementara Bill of Lading (B/L) merupakan bukti otentik pengangkutan barang ekspor kapal. Keduanya merupakan dokumen pihak ketiga terbaik untuk membuktikan volume penjualan ekspor riil."
+  },
+  {
+    "question": "PT MNO Nikel masuk dalam kuadran kuning pada aplikasi CRM IRE SR PBB. Apa langkah penanganan awal yang paling tepat untuk dilakukan oleh Anda sebagai Account Representative (AR)?",
+    "options": [
+      "Menghimbau Wajib Pajak untuk mendaftarkan diri agar diterbitkan SKT PBB.",
+      "Menerbitkan Surat Klarifikasi dengan tujuan agar Wajib Pajak melaporkan SPOP sesuai data yang terdapat pada CRM IRE SR PBB.",
+      "Membuat Kertas Kerja Analisis (KKA) usulan pemeriksaan all taxes.",
+      "Mengusulkan Wajib Pajak masuk ke dalam DPP dan menyusun LHPt serta SP2DK dengan memperhitungkan potensi CRM IRE SR PBB."
+    ],
+    "answer": 1,
+    "explanation": "Kuadran kuning pada Compliance Risk Management (CRM) Penilaian Massal PBB mengindikasikan adanya celah/risiko data yang tidak selaras namun belum menjadi prioritas penegakan hukum berat. Penanganan terbaiknya adalah mengklarifikasi data objek melalui SPOP terlebih dahulu."
+  },
+  {
+    "question": "Dari data pemicu diketahui Harsono berstatus K/2 mendapatkan dividen sebesar Rp500.000.000 dari penyertaan saham sebesar 33% pada PT Unggul Indah Jaya. Menurut Anda sebagai Account Representative (AR), apa perlakuan pelaporan/analisis yang paling tepat terhadap instrumen dividen Harsono tersebut berdasarkan ketentuan terbaru?",
+    "options": [
+      "Dilaporkan pada lampiran 1770-IV pada penghasilan dari penyertaan modal.",
+      "Melakukan penelitian terhadap lampiran 1770-III terkait pencantuman dividen tersebut.",
+      "Tidak perlu dilaporkan sebagai objek PPh jika memenuhi syarat investasi kembali (bukan objek pajak / final dipotong), namun tetap dilaporkan di komponen non-objek.",
+      "Dilaporkan pada lampiran 1770-I pada kelompok penghasilan lainnya."
+    ],
+    "answer": 2,
+    "explanation": "Sesuai regulasi pasca UU Cipta Kerja, dividen dalam negeri yang diterima Orang Pribadi dibebaskan dari objek PPh sepanjang diinvestasikan kembali (atau dilaporkan di lampiran penghasilan yang tidak termasuk objek pajak/final pada SPT Tahunan OP 1770-III). Kontrol AR difokuskan pada kebenaran pelaporan administratif tersebut."
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "topic": "Kasus Pengalihan Saham ke PT",
+    "question": "Hasil analisis data objektif AR menunjukkan pajak terutang sebesar Rp2 miliar atas transaksi pengalihan saham ke PT. Wajib Pajak (WP) hanya bersedia membayar Rp1 miliar. Di sisi lain, target penerimaan AR masih kurang Rp1 miliar. Tindakan apa yang harus diambil oleh AR?",
+    "options": [
+      "Menurunkan nilai analisis menjadi Rp1 miliar demi mengejar target penerimaan instan.",
+      "Tetap menerbitkan hasil analisis sesuai nilai riil yang objektif sebesar Rp2 miliar dan menuangkan ketidaksepakatan WP ke dalam Berita Acara.",
+      "Melaporkan kepada Kasi untuk memutihkan sisa potensi Rp1 miliar agar WP mau membayar.",
+      "Menunda penerbitan LHPt sampai dengan tahun pajak berikutnya."
+    ],
+    "answer": 1,
+    "explanation": "Fiskus wajib menjunjung tinggi asas legalitas dan objektivitas data. Menurunkan nilai analisis secara sepihak hanya demi mengejar target penerimaan instan adalah pelanggaran prosedur. Jika terjadi perselisihan angka, ketidaksetujuan WP diselesaikan lewat jalur eskalasi formal (usulan pemeriksaan)."
+  },
+  {
+    "id": 2,
+    "topic": "Kasus Analisis Risiko Usaha",
+    "question": "Bagaimana AR mengevaluasi risiko usaha atau risiko perpajakan WP berdasarkan informasi proses bisnis dalam kegiatan pengawasan untuk menghasilkan Laporan Hasil Penelitian (LHPt)?",
+    "options": [
+      "Hanya melihat total nominal setoran pajak tanpa mempedulikan rasio keuangan.",
+      "Melakukan pengujian kepatuhan materil atas laporan keuangan dan profil WP secara komprehensif guna mendeteksi ketidakwajaran.",
+      "Menyamakan target laba seluruh WP tanpa melihat karakteristik sektor usaha.",
+      "Menggunakan data eksternal secara acak tanpa melakukan ekualisasi internal."
+    ],
+    "answer": 1,
+    "explanation": "LHPt adalah produk akhir dari Kegiatan Pengumpulan Data dan Penelitian (KPD). AR dituntut memahami karakteristik proses bisnis spesifik pada setiap sektor usaha agar mampu menilai apakah laba, biaya, maupun perputaran persediaan yang dilaporkan WP masuk akal (reasonable) atau menyembunyikan potensi pajak."
+  },
+  {
+    "id": 3,
+    "topic": "Kasus Alur Pengawasan Wajib Pajak",
+    "question": "Berdasarkan PMK 111 Tahun 2025, kapan suatu kasus pengawasan melalui SP2DK harus ditingkatkan atau diteruskan ke tahap fungsi penegakan hukum (pemeriksaan)?",
+    "options": [
+      "Ketika WP langsung menyetujui seluruh data dan melunasi potensi pajak dalam waktu 3 hari.",
+      "Jika WP tidak menyampaikan tanggapan yang memadai, menolak diteliti, atau ditemukan indikasi tindak pidana.",
+      "Seketika setelah SP2DK dikirimkan tanpa perlu menunggu tanggapan dari Wajib Pajak.",
+      "Hanya jika target penerimaan KPP pada bulan berjalan belum tercapai."
+    ],
+    "answer": 1,
+    "explanation": "Fungsi pengawasan mengedepankan pembinaan kepatuhan sukarela. Namun, jika dalam jangka waktu pemenuhan SP2DK tidak ada iktikad baik dari WP untuk mengklarifikasi atau membayar data yang valid, maka fungsi pengawasan dinyatakan selesai dan beralih ke fungsi penegakan hukum (law enforcement) melalui usulan pemeriksaan."
+  },
+  {
+    "id": 4,
+    "topic": "Kasus Pengambilan Keputusan oleh AR",
+    "question": "Ketika menerima data mentah dari pihak ketiga terkait transaksi keuangan WP, apa langkah pertama yang harus diprioritaskan oleh AR sebelum menghubungi Wajib Pajak?",
+    "options": [
+      "Langsung menerbitkan usulan bukti permulaan ke Kanwil.",
+      "Melakukan analisis internal/penelitian mendalam (desk research/profiling) terlebih dahulu untuk memastikan validitas data.",
+      "Meminta bantuan pihak ketiga tersebut untuk langsung menyita aset Wajib Pajak.",
+      "Mengabaikan data tersebut sampai Wajib Pajak melaporkan sendiri di SPT Tahunan."
+    ],
+    "answer": 1,
+    "explanation": "Sebelum mengonfrontasi WP dengan SP2DK, AR harus melakukan desk research/profiling untuk memastikan data pihak ketiga tersebut valid dan relevan dengan profil SPT WP. Klarifikasi pun harus ditujukan langsung kepada manajemen/Direksi yang kompeten agar informasi yang didapat akurat secara hukum."
+  },
+  {
+    "id": 5,
+    "topic": "Kasus Penggalian Potensi (Galpot) Pasca SP2DK",
+    "question": "Jika WP telah diterbitkan SP2DK namun hanya bersedia mengakui dan membayar sebagian potensi pajak yang teridentifikasi, bagaimana AR menindaklanjuti sisa potensi pajak yang masih ada?",
+    "options": [
+      "Menghapus sisa potensi pajak tersebut dari sistem agar administrasi menjadi bersih.",
+      "Membuat rekomendasi usulan Pemeriksaan Pajak atas sisa potensi pajak yang tidak disetujui atau belum dibayar tersebut.",
+      "Memaksa Wajib Pajak secara lisan tanpa melalui prosedur administrasi tertulis.",
+      "Memberikan diskon tarif pajak secara sepihak agar Wajib Pajak mau melunasi sisa potensi."
+    ],
+    "answer": 1,
+    "explanation": "Sesuai ketentuan pengawasan (PMK 111 Tahun 2025), AR tidak memiliki wewenang hukum untuk memutihkan atau menghapus sisa potensi valid yang ditolak WP. Penyelesaian sisa perbedaan pendapat tersebut harus diserahkan ke unit Pemeriksaan guna diuji secara formal dan materil melalui pengeluaran ketetapan pajak (SKP)."
+  },
+  {
+    "id": 6,
+    "topic": "Kasus Pemeriksaan Perpajakan (WP Menolak Diperiksa)",
+    "question": "Apa langkah selanjutnya yang harus ditempuh berdasarkan PMK 15 Tahun 2025 apabila Wajib Pajak menolak secara tegas untuk dilakukan pemeriksaan lapangan?",
+    "options": [
+      "Membatalkan Surat Perintah Pemeriksaan (SP2) dan menghentikan seluruh proses.",
+      "Membuat Berita Acara Penolakan Membantu Kelancaran Pemeriksaan, dan melakukan penghitungan pajak secara jabatan berdasarkan data/bukti yang tersedia.",
+      "Menunggu sampai Wajib Pajak bersedia membuka kembali usahanya tanpa batas waktu.",
+      "Mengalihkan kewajiban pajak tersebut kepada pemegang saham secara langsung tanpa perhitungan."
+    ],
+    "answer": 1,
+    "explanation": "Sesuai PMK 15 Tahun 2025, penolakan WP untuk diperiksa tidak membatalkan jalannya pemeriksaan. Aparat pajak dilindungi undang-undang untuk menggunakan data sekunder, data pihak ketiga, atau metode tidak langsung guna menetapkan besarnya pajak terutang secara jabatan."
+  },
+  {
+    "id": 7,
+    "topic": "Kasus Identifikasi Jenis Pajak",
+    "question": "Dalam menganalisis suatu skenario transaksi lintas batas atau penggunaan jasa internasional, langkah dasar apa yang harus dilakukan AR untuk mengidentifikasi aspek pemotongan pajaknya yang tepat?",
+    "options": [
+      "Langsung menerapkan PPh Pasal 23 tanpa melihat domisili subjek pajak.",
+      "Menguji status subjek pajak (dalam negeri atau luar negeri) serta sifat dari objek transaksinya (jasa, modal, atau penyerahan barang) serta ketentuan P3B.",
+      "Hanya mengenakan PPN Jasa Luar Negeri tanpa menguji aspek Pajak Penghasilannya.",
+      "Meminta Wajib Pajak menentukan sendiri jenis pajak yang ingin mereka bayar."
+    ],
+    "answer": 1,
+    "explanation": "Pemahaman atas skenario perpajakan sangat krusial: PPh 23 untuk pemotongan jasa badan dalam negeri, PPh 26/P3B jika melibatkan jasa dari luar negeri, PPh 24 untuk pengkreditan pajak luar negeri, dan skema PP 55 jika menggunakan fasilitas tarif final."
+  },
+  {
+    "id": 8,
+    "topic": "Kasus Rekonsiliasi Biaya Gaji (Ekualisasi)",
+    "question": "Bagaimana formulasi pengujian ekualisasi yang dilakukan AR ketika membandingkan biaya gaji pada SPT Tahunan PPh Badan dengan SPT Masa PPh Pasal 21?",
+    "options": [
+      "Membandingkan total omzet penjualan dengan total biaya gaji di laporan keuangan.",
+      "Membandingkan total biaya gaji/upah/tunjangan di Laporan Laba Rugi fiskal dengan total akumulasi Objek Pajak pada SPT Masa PPh 21 Masa Januari hingga Desember.",
+      "Menghitung jumlah karyawan dikalikan dengan tarif PTKP terbaru.",
+      "Menyamakan biaya gaji dengan nilai aset tetap yang dimiliki oleh perusahaan."
+    ],
+    "answer": 1,
+    "explanation": "Ekualisasi biaya adalah teknik pengawasan dasar. Jika biaya gaji di SPT Tahunan lebih besar daripada objek yang dilaporkan di SPT Masa PPh 21, artinya ada objek pajak (seperti natura, bonus, atau gaji karyawan lepas) yang belum dipotong pajaknya oleh perusahaan selaku pemotong pajak."
+  },
+  {
+    "id": 9,
+    "topic": "Kasus Koreksi Fiskal atas Biaya",
+    "question": "Agar biaya entertainment atau promosi yang dikeluarkan oleh perusahaan dalam laporan keuangan komersial sah dinyatakan sebagai deductible expenses (dapat dikurangkan) menurut fiskus, syarat mutlak apa yang wajib dipenuhi?",
+    "options": [
+      "Biaya tersebut harus bernilai di bawah Rp10.000.000 per transaksi.",
+      "Memenuhi syarat 3M (Mendapatkan, Menagih, Memelihara penghasilan) dan wajib melampirkan Daftar Nominatif secara formal.",
+      "Mendapat persetujuan tertulis dari Direktur Jenderal Pajak sebelum biaya dikeluarkan.",
+      "Biaya tersebut dibayarkan menggunakan mata uang asing (USD)."
+    ],
+    "answer": 1,
+    "explanation": "AR harus jeli menyortir pos biaya di laporan keuangan. Biaya entertainment dan promosi mutlak membutuhkan daftar nominatif agar legal dikurangkan secara fiskal. Jika tidak terpenuhi, wajib dikoreksi positif (non-deductible)."
+  },
+  {
+    "id": 10,
+    "topic": "Kasus Pengkreditan Pajak Masukan (PM)",
+    "question": "Wajib Pajak memiliki Faktur Pajak Masukan (PM) Masa Juni, namun karena keterlambatan administrasi baru diterima saat pelaporan Masa Agustus selesai. Bagaimana batasan aturan pengkreditan PM tersebut?",
+    "options": [
+      "PM tersebut hangus dan tidak dapat dikreditkan sama sekali.",
+      "Dapat dikreditkan melalui pembetulan SPT Masa PPN Juni atau dikreditkan di masa pajak berikutnya, paling lama 3 masa pajak setelah berakhirnya masa pajak bersangkutan, sepanjang belum dibiayakan dan belum diperiksa.",
+      "Dapat dikreditkan kapan saja tanpa batasan waktu sepanjang perusahaan belum tutup.",
+      "Hanya dapat dikreditkan jika perusahaan mengalami kerugian fiskal pada tahun berjalan."
+    ],
+    "answer": 1,
+    "explanation": "Undang-Undang PPN memberikan relaksasi waktu pengkreditan PM yang terlambat diterima oleh WP selama maksimal 3 masa pajak berikutnya. Selama belum dilakukan tindakan pemeriksaan oleh fiskus dan belum dibebankan sebagai biaya, hak pengkreditan tersebut tetap sah."
+  },
+  {
+    "id": 11,
+    "topic": "Kasus Wajib Pajak Sektor Nikel (Indikator Komoditas)",
+    "question": "Indikator makro apa saja yang paling valid diperbandingkan oleh AR dalam teknik cross matching untuk menggali potensi pajak omzet tersembunyi pada WP sektor pertambangan nikel?",
+    "options": [
+      "Luas kantor perwakilan korporasi di Jakarta.",
+      "Volume penjualan di SPT disandingkan dengan data realisasi pembayaran PNBP (Royalti Mineral), Harga Patokan Mineral (HPM) nikel, dan dokumen pengapalan (Bill of Lading).",
+      "Jumlah total dump truck yang disewa oleh kontraktor pertambangan.",
+      "Nilai jaminan reklamasi yang ditempatkan di bank persepsi luar negeri."
+    ],
+    "answer": 1,
+    "explanation": "Karena harga nikel berfluktuasi dan diatur ketat via HPM, AR dapat menghitung potensi omzet riil dengan formula: Volume Produksi/Ekspor x HPM. Hasil hitungan ini disandingkan dengan nilai PNBP yang disetor ke negara guna menguji kewajaran omzet di SPT."
+  },
+  {
+    "id": 12,
+    "topic": "Kasus WP Badan Mengalami Rugi Berturut-turut",
+    "question": "Sebuah WP Badan melaporkan kerugian fiskal selama bertahun-tahun, namun data AEOI (Automatic Exchange of Information) menunjukkan pemegang saham pengendali (PSP) memiliki rekening luar negeri bernilai fantastis yang belum dilaporkan. Apa fokus analisis risiko yang tepat dilakukan AR?",
+    "options": [
+      "Mengabaikan kerugian perusahaan karena itu adalah hak komersial Wajib Pajak.",
+      "Melakukan analisis risiko atas potensi skema transfer pricing, pinjaman tanpa bunga implisit (thin capitalization), atau profit shifting ke luar negeri.",
+      "Langsung menghapus NPWP Badan tersebut secara jabatan karena dinilai tidak produktif.",
+      "Meminta Wajib Pajak memindahkan seluruh saldo rekening luar negeri ke rekening KPP."
+    ],
+    "answer": 1,
+    "explanation": "Secara logika ekonomi, perusahaan yang rugi terus-menerus seharusnya tutup. Jika pemegang sahamnya justru bertambah kaya di luar negeri, terdapat indikasi kuat perpindahan laba ke luar negeri (profit shifting). Data rekening luar negeri menjadi pintu masuk AR untuk menguji transaksi hubungan istimewa."
+  },
+  {
+    "id": 13,
+    "topic": "Kasus Net Profit Margin (NPM) di bawah Benchmark",
+    "question": "Apa interpretasi risiko dan tindak lanjut AR jika nilai rasio Net Profit Margin (NPM) suatu Wajib Pajak berada jauh di bawah rata-rata benchmark industri sejenis?",
+    "options": [
+      "WP dikategorikan berisiko rendah karena labanya kecil, sehingga tidak perlu diawasi.",
+      "WP dikategorikan memiliki risiko ketidakpatuhan materil yang tinggi (high risk), dan tindak lanjutnya adalah menerbitkan SP2DK untuk meminta klarifikasi mendalam atas pos biaya operasional.",
+      "Membatalkan seluruh izin e-Faktur Wajib Pajak seketika.",
+      "Menyarankan Wajib Pajak untuk mengubah Klasifikasi Lapangan Usaha (KLU) di masterfile."
+    ],
+    "answer": 1,
+    "explanation": "Benchmark industri adalah alat ukur makro DJP. Jika NPM berada di bawah standar rata-rata, hal ini mengindikasikan adanya pelaporan biaya yang digelembungkan (overstated expenses) atau omzet yang dilaporkan terlalu rendah (understated revenue)."
+  },
+  {
+    "id": 14,
+    "topic": "PMK 111 Tahun 2025 (Ketentuan Formal Pengawasan)",
+    "question": "Berdasarkan PMK 111 Tahun 2025, instrumen formal kedinasan manakah yang WAJIB diterbitkan oleh AR ketika akan melakukan tindakan pengawasan lapangan berupa Kunjungan (visit) ke lokasi Wajib Pajak?",
+    "options": [
+      "Nota Dinas Rahasia Internal KPP.",
+      "Surat Tugas (ST) Pengawasan/Kunjungan resmi.",
+      "Surat Perintah Pemeriksaan Pajak (SP2).",
+      "Surat Paksa Penyerahan Dokumen Lapangan."
+    ],
+    "answer": 1,
+    "explanation": "PMK 111 Tahun 2025 mempertegas tata kelola administrasi pengawasan. Setiap tindakan lapangan (Kunjungan/Visit) wajib dibekali Surat Tugas resmi, dan Wajib Pajak berhak meminta petugas menunjukkan ST tersebut demi kepastian hukum."
+  },
+  {
+    "id": 15,
+    "topic": "PER-19 (Suspensi Akses Faktur Pajak)",
+    "question": "Apa sanksi administratif berdasarkan ketentuan PER-19 terhadap Pengusaha Kena Pajak (PKP) yang tidak memenuhi kewajiban formal penyampaian SPT Masa PPN secara berturut-turut dalam jangka waktu tertentu?",
+    "options": [
+      "Pencabutan status kewarganegaraan pengurus perusahaan.",
+      "Penonaktifan sementara (suspensi) atas akses pembuatan Faktur Pajak elektronik (e-Faktur).",
+      "Penyitaan aset tetap berupa tanah dan bangunan milik PKP.",
+      "Denda tunai sebesar 50% dari total nilai aset lancar korporasi."
+    ],
+    "answer": 1,
+    "explanation": "Kebijakan ini bertujuan mencegah penyalahgunaan Faktur Pajak fiktif atau tidak sah. Jika PKP tidak melapor SPT Masa PPN berturut-turut, sistem akan otomatis melakukan suspensi/mengunci kemampuan mereka menerbitkan e-Faktur hingga ada klarifikasi formal yang disetujui KPP."
+  },
+  {
+    "id": 16,
+    "topic": "Peraturan Pemerintah (Tarif Final UMKM 0,5%)",
+    "question": "Bagaimana ketentuan pengenaan skema tarif final 0,5% (PP 55) khusus bagi Wajib Pajak Orang Pribadi UMKM dalam tahun pajak berjalan?",
+    "options": [
+      "Pajak 0,5% langsung dihitung sejak rupiah pertama omzet di bulan Januari.",
+      "Dikenakan atas peredaran bruto setahun yang belum melewati Rp4,8 miliar, dengan fasilitas batasan omzet tidak kena pajak sampai dengan Rp500 juta setahun (pajak baru dihitung setelah omzet kumulatif melewati Rp500 juta).",
+      "Bebas pajak selamanya tanpa ada batasan tahun penggunaan.",
+      "Hanya berlaku untuk Wajib Pajak yang melakukan transaksi ekspor barang mewah saja."
+    ],
+    "answer": 1,
+    "explanation": "AR harus teliti menghitung omzet bulanan WP OP UMKM. Berdasarkan PP 55, pajak final 0,5% baru mulai disetor/dihitung pada bulan di mana akumulasi omzet kumulatifnya dalam tahun berjalan telah melewati angka Rp500 juta."
+  },
+  {
+    "id": 17,
+    "topic": "Kegiatan Pengumpulan Data dan Penelitian (KPD) tanpa ST",
+    "question": "Jenis atau kondisi Kegiatan Pengumpulan Data dan Penelitian (KPD) seperti apa yang sah dilakukan oleh AR tanpa harus menerbitkan Surat Tugas (ST)?",
+    "options": [
+      "Melakukan Kunjungan (visit) mendadak ke rumah domisili Wajib Pajak pada malam hari.",
+      "KPD yang bersifat penelitian berbasis meja kantor (desk research) atau analisis data elektronik pasif di dalam internal sistem informasi DJP.",
+      "Melakukan wawancara formal tatap muka dengan Direksi Utama di hotel.",
+      "Melakukan penggeledahan gudang penyimpanan barang dagangan Wajib Pajak."
+    ],
+    "answer": 1,
+    "explanation": "Surat Tugas (ST) diwajibkan secara ketat untuk tindakan aktif yang bersentuhan dengan pihak eksternal/lapangan (seperti Kunjungan). Untuk analisis internal, optimalisasi sistem, pengolahan data analitik, dan profiling data di komputer kerja, AR tidak memerlukan ST khusus."
+  }
+]
