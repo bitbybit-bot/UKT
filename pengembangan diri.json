@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "soal": "Anda baru saja ditunjuk sebagai Kepala Subbagian yang membawahi beberapa staf senior yang terbiasa menggunakan metode manual, sementara organisasi mewajibkan migrasi ke sistem digital baru dalam 2 minggu. Langkah paling tepat yang mencerminkan indikator Level 2 Pengembangan Diri dan Orang Lain adalah...",
+    "pilihan": {
+      "A": "Menunjuk staf yang paling muda untuk menguasai sistem baru tersebut lalu meminta seluruh staf senior belajar mandiri kepadanya.",
+      "B": "Menyusun modul manual penggunaan sistem, mendemonstrasikan langkah demi langkah, dan mendampingi staf senior secara berkala saat pengoperasian awal.",
+      "C": "Melaporkan kepada pimpinan bahwa target 2 minggu tidak realistis mengingat profil kompetensi staf senior yang ada saat ini.",
+      "D": "Mengadakan rapat koordinasi formal dan menegaskan bahwa ketidakmampuan beradaptasi dengan sistem baru akan memengaruhi evaluasi kinerja tahunan.",
+      "E": "Mengambil alih seluruh pekerjaan sistem digital tersebut sendirian demi memastikan target organisasi tercapai tepat waktu."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Indikator utama Level 2 adalah meningkatkan kemampuan bawahan dengan memberikan contoh, instruksi, penjelasan, dan petunjuk praktis yang jelas (role-modeling & guiding). Memberikan demonstrasi langsung (langkah demi langkah) serta pendampingan berkala memenuhi esensi 'membantu bawahan mempelajari proses, program, atau sistem baru'.",
+    "halaman_terkait": "Halaman 2 - Indikator Perilaku Level 2"
+  },
+  {
+    "id": 2,
+    "soal": "Seorang staf di unit kerja Anda terlihat kesulitan mengoperasikan aplikasi analisis data terbaru yang krusial untuk proyek tim. Ia tampak enggan bertanya karena merasa sungkan. Sebagai atasan langsung yang menerapkan prinsip kompetensi Level 2, tindakan Anda adalah...",
+    "pilihan": {
+      "A": "Membiarkannya belajar dari kesalahan secara mandiri agar membentuk mental yang tangguh dalam bekerja.",
+      "B": "Menugaskan staf tersebut untuk mengikuti pelatihan bersertifikasi di luar jam kantor agar tidak mengganggu operasional.",
+      "C": "Mendatangi meja staf tersebut, memberikan contoh konkret cara menginput data, dan mengecek pemahamannya menggunakan studi kasus kecil.",
+      "D": "Memindahkan tugas analisis data kepada staf lain yang sudah mahir demi efisiensi dan kelancaran proyek.",
+      "E": "Menyarankan staf tersebut untuk mencari video tutorial di platform digital secara mandiri."
+    },
+    "jawaban_benar": "C",
+    "penjelasan": "Tindakan mendatangi, memberi contoh konkret, dan mengecek kembali pemahaman bawahan menggunakan studi kasus adalah perwujudan nyata dari indikator 'menggunakan metode lain untuk meyakinkan bahwa orang lain telah memahami penjelasan'.",
+    "halaman_terkait": "Halaman 2 - Poin 2.3 Mengonfirmasi Pemahaman Bawahan"
+  },
+  {
+    "id": 3,
+    "soal": "Dalam sebuah sesi pengarahan, Anda telah menjelaskan secara detail alur kerja baru kepada tim. Namun, saat sesi tanya jawab, semua bawahan diam. Mengacu pada kompetensi Level 2, bagaimana Anda memastikan pesan Anda benar-benar dipahami?",
+    "pilihan": {
+      "A": "Menganggap keheningan tim sebagai tanda bahwa instruksi sudah sangat jelas dan langsung menutup rapat.",
+      "B": "Meminta salah satu bawahan secara acak untuk mensimulasikan atau menceritakan kembali alur kerja yang baru saja dijelaskan.",
+      "C": "Membuat pengumuman tertulis di papan informasi grup agar mereka bisa membacanya kembali sewaktu-waktu.",
+      "D": "Mengancam akan memberikan sanksi administrasi jika terjadi kesalahan prosedur dalam pelaksanaan alur baru tersebut.",
+      "E": "Meminta setiap anggota tim menandatangani pakta integritas bahwa mereka telah paham."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Meminta bawahan mensimulasikan atau menceritakan kembali alur kerja merupakan bagian dari strategi 'menggunakan metode lain/umpan balik' untuk meyakinkan dan memverifikasi bahwa pengarahan telah ditangkap dengan benar oleh bawahan.",
+    "halaman_terkait": "Halaman 2 - Indikator Perilaku 2.3"
+  },
+  {
+    "id": 4,
+    "soal": "Instansi Anda sedang menerapkan sistem penilaian kinerja berbasis digital terintegrasi. Banyak bawahan Anda yang masih gagap teknologi dan mengeluhkan kerumitan sistem tersebut. Tindakan kepemimpinan Anda yang paling efektif sesuai standar kompetensi adalah...",
+    "pilihan": {
+      "A": "Mendelegasikan pengisian aplikasi kepada tenaga honorer atau magang yang lebih tech-savvy.",
+      "B": "Menginstruksikan bawahan untuk membaca buku petunjuk teknis (juknis) yang tebal secara mandiri.",
+      "C": "Membuat video panduan layar (screen-recording) berdurasi pendek dan mengadakan sesi praktikum bersama di ruang rapat.",
+      "D": "Mengusulkan ke unit kepegawaian agar sistem ditinjau ulang karena belum ramah pengguna.",
+      "E": "Mengabaikan keluhan mereka dengan prinsip bahwa lambat laun mereka akan terbiasa sendiri."
+    },
+    "jawaban_benar": "C",
+    "penjelasan": "Membuat video panduan praktis (instruksi visual) dan memfasilitasi sesi praktikum bersama mencakup dua indikator Level 2 sekaligus: memberikan petunjuk praktis yang jelas (2.1) dan membantu bawahan mempelajari sistem baru (2.2).",
+    "halaman_terkait": "Halaman 2 - Implementasi Sistem Baru"
+  },
+  {
+    "id": 5,
+    "soal": "Anda mengamati seorang pegawai baru yang memiliki potensi tinggi, namun sering melakukan kesalahan fatal dalam penyusunan Laporan Akuntabilitas (LAKIP). Pendekatan Level 2 yang paling konstruktif untuk kasus ini adalah...",
+    "pilihan": {
+      "A": "Mengambil alih pembuatan LAKIP dan meminta pegawai tersebut hanya menonton prosesnya tanpa terlibat.",
+      "B": "Memberikan draf LAKIP yang benar dari tahun lalu, menjelaskan poin penting penyusunannya, lalu meminta dia membuat draf baru untuk dikoreksi bersama.",
+      "C": "Menegur kesalahan tersebut di depan forum rapat agar pegawai lain menjadikannya sebagai pelajaran.",
+      "D": "Menyerahkan dokumen juknis LAKIP nasional dan meminta dia memperbaiki kesalahannya dalam waktu 1x24 jam.",
+      "E": "Meminta pegawai senior untuk mengoreksi pekerjaan pegawai baru tersebut tanpa campur tangan Anda."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Memberikan contoh konkret (draf tahun lalu), menjelaskan poin penting (memberikan instruksi/penjelasan), serta melakukan koreksi bersama adalah pola ideal peningkatan kemampuan bawahan pada Level 2.",
+    "halaman_terkait": "Halaman 2 - Studi Kasus Pegawai Baru"
+  },
+  {
+    "id": 6,
+    "soal": "Kriteria keberhasilan utama dari seorang pejabat pengawas/atasan langsung dalam pemenuhan Kompetensi Manajerial Level 2 'Pengembangan Diri dan Orang Lain' dinilai dari...",
+    "pilihan": {
+      "A": "Jumlah sertifikat pelatihan internasional yang berhasil diraih oleh dirinya sendiri dalam satu tahun anggaran.",
+      "B": "Kemampuan menginspirasi kebijakan pengembangan SDM di tingkat instansi pusat atau nasional.",
+      "C": "Kemampuan memastikan bawahan langsung mampu melaksanakan tugas harian dan beradaptasi dengan sistem baru melalui bimbingan praktis.",
+      "D": "Keberanian memberikan sanksi disiplin bagi pegawai yang tidak mau berkembang.",
+      "E": "Keberhasilan melakukan kaderisasi terstruktur untuk posisi-posisi strategis di tingkat eselon dua."
+    },
+    "jawaban_benar": "C",
+    "penjelasan": "Fokus Level 2 berada pada lingkup tim/bawahan langsung dengan memberikan instruksi, contoh, dan penjelasan praktis operasional agar mereka mandiri dalam tugas harian.",
+    "halaman_terkait": "Halaman 1 & 2 - Matriks Kompetensi"
+  },
+  {
+    "id": 7,
+    "soal": "Staf Anda, Budi, berulang kali gagal mengirimkan laporan logistik bulanan secara presisi karena bingung mengoperasikan rumus Pivot Table di Excel. Sebagai atasan Level 2, tindakan Anda adalah...",
+    "pilihan": {
+      "A": "Meminta Budi mengikuti kursus kilat data sains di luar jam kerja atas biaya mandiri.",
+      "B": "Duduk bersama Budi, mendemonstrasikan pembuatan rumus Pivot secara langsung, dan meminta Budi mempraktikkannya di depan Anda.",
+      "C": "Memindahkan fungsi pengerjaan laporan logistik tersebut ke staf lain yang menguasai Excel.",
+      "D": "Membuatkan rumus baku dalam file Excel tersebut, menguncinya (lock cell), dan melarang Budi mengubahnya.",
+      "E": "Melaporkan penurunan kinerja Budi kepada Tim Penilai Kinerja Pegawai."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Metode demonstrasi langsung (memberikan contoh/instruksi) diikuti dengan verifikasi langsung (meminta mempraktikkan kembali) adalah intervensi paling efektif yang mencerminkan indikator Level 2.",
+    "halaman_terkait": "Halaman 2 - Petunjuk Praktis"
+  },
+  {
+    "id": 8,
+    "soal": "Ketika unit kerja Anda kedatangan sistem pengarsipan digital baru berbasis cloud, respon kepemimpinan Anda yang selaras dengan nilai pengembangan orang lain adalah...",
+    "pilihan": {
+      "A": "Menolak sistem tersebut karena menganggap pengarsipan fisik jauh lebih aman dari serangan siber.",
+      "B": "Mempelajari sistem tersebut terlebih dahulu secara mandiri, kemudian mengajari bawahan melalui simulasi pengarsipan dokumen nyata.",
+      "C": "Meminta vendor penyedia aplikasi cloud untuk bertanggung jawab penuh mengajari staf sampai bisa tanpa keterlibatan Anda.",
+      "D": "Meminta staf mencari tahu sendiri cara kerjanya melalui menu 'Bantuan/Help' di aplikasi tersebut.",
+      "E": "Membatasi penggunaan aplikasi hanya untuk staf yang dinilai cerdas digital saja."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Seorang atasan Level 2 harus menguasai materi/program baru terlebih dahulu (aspek pengembangan diri) sebelum mentransfer ilmu tersebut secara praktis melalui simulasi langsung kepada bawahannya.",
+    "halaman_terkait": "Halaman 2 - Membantu Bawahan Mempelajari Sistem Baru"
+  },
+  {
+    "id": 9,
+    "soal": "Manakah di bawah ini yang merupakan tindakan yang TIDAK tepat atau melanggar esensi dari Kompetensi Level 2 Pengembangan Diri dan Orang Lain?",
+    "pilihan": {
+      "A": "Menjelaskan alur disposisi surat menyurat secara detail kepada sekretaris baru.",
+      "B": "Memberikan tugas yang sangat kompleks dan berisiko tinggi kepada bawahan tanpa memberikan instruksi atau arahan awal.",
+      "C": "Membuat infografis ringkas untuk memudahkan bawahan memahami Standar Operasional Prosedur (SOP) pelayanan.",
+      "D": "Mengecek kembali pemahaman staf setelah memberikan instruksi verbal mengenai operasional alat kantor.",
+      "E": "Mendampingi bawahan saat pertama kali melakukan presentasi di hadapan pemangku kepentingan."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Memberikan tugas kompleks tanpa arahan/instruksi (prinsip 'pemberian tugas menantang' secara mandiri) adalah karakteristik Level 3. Pada Level 2, atasan wajib menyertakan instruksi, contoh, dan kejelasan petunjuk praktis.",
+    "halaman_terkait": "Halaman 2 - Perbedaan Level 2 dan Level 3"
+  },
+  {
+    "id": 10,
+    "soal": "Anda mendapati salah satu staf senior Anda menunjukkan penolakan (resistence to change) terhadap metode penilaian kinerja terbaru. Pendekatan Level 2 yang paling bijak adalah...",
+    "pilihan": {
+      "A": "Memberikan surat peringatan tertulis (SP 1) atas tindakan pembangkangan tugas.",
+      "B": "Mengajjak staf senior tersebut berdiskusi empat mata, memaparkan manfaat sistem baru bagi kariernya, serta memandu pengisiannya langkah demi langkah.",
+      "C": "Membiarkan staf tersebut tetap menggunakan metode lama selama target output kerjanya tercapai.",
+      "D": "Mengumumkan di grup kantor bahwa staf senior tersebut menghambat proses transformasi organisasi.",
+      "E": "Meminta staf junior untuk mengisi data staf senior tersebut demi menghindari konflik."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Menggabungkan pendekatan persuasif dengan panduan langkah-demi-langkah (step-by-step guidance) membantu menjembatani penolakan pegawai senior terhadap program/sistem baru.",
+    "halaman_terkait": "Halaman 2 - Mengatasi Kendala Pembelajaran"
+  },
+  {
+    "id": 11,
+    "soal": "Bagaimana cara terbaik mengevaluasi bahwa metode pengajaran Anda kepada bawahan terkait pengoperasian alat scanner berkecepatan tinggi telah berhasil (sesuai indikator Level 2)?",
+    "pilihan": {
+      "A": "Bawahan menyatakan secara lisan dalam rapat bahwa mereka sudah paham.",
+      "B": "Bawahan mampu mengoperasikan alat scanner tersebut secara mandiri tanpa kesalahan teknis dalam seminggu terakhir.",
+      "C": "Bawahan membuat rangkuman tertulis mengenai teori cara kerja mesin scanner.",
+      "D": "Jumlah berkas arsip yang menumpuk di meja kerja bawahan semakin berkurang.",
+      "E": "Bawahan tidak pernah lagi mengajukan pertanyaan atau keluhan kepada Anda."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Indikator keberhasilan metode penjelasan/pengarahan pada Level 2 diukur dari kemampuan praktis bawahan dalam menyelesaikan pekerjaan tersebut dengan benar pasca-intervensi.",
+    "halaman_terkait": "Halaman 2 - Indikator Keberhasilan Perilaku"
+  },
+  {
+    "id": 12,
+    "soal": "Terdapat perubahan regulasi mendadak terkait tata cara pengadaan barang dan jasa pemerintah. Langkah responsif Anda sebagai pejabat pengawas adalah...",
+    "pilihan": {
+      "A": "Menunggu diadakannya bimbingan teknis resmi dari Kedeputian terkait di tingkat pusat.",
+      "B": "Mempelajari poin perubahan regulasi secara mandiri, menyusun pointer ringkas, lalu mengedukasi tim pengadaan di unit Anda dalam rapat internal.",
+      "C": "Menyuruh staf pengadaan untuk menafsirkan sendiri regulasi baru tersebut agar mereka mandiri.",
+      "D": "Menghentikan seluruh proses pengadaan barang dan jasa sampai ada instruksi tertulis lebih lanjut.",
+      "E": "Menyewa konsultan eksternal untuk mendikte seluruh jalannya proses pengadaan."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Mempelajari poin perubahan secara mandiri (pengembangan diri) lalu mengedukasi tim melalui pointer ringkas (pengembangan orang lain via penjelasan) adalah kombinasi kompetensi Level 2 yang sangat ideal.",
+    "halaman_terkait": "Halaman 2 - Adaptasi terhadap Regulasi Baru"
+  },
+  {
+    "id": 13,
+    "soal": "Metode manakah di bawah ini yang paling efektif digunakan oleh seorang atasan Level 2 untuk meyakinkan bahwa bawahan telah memahami pengarahannya terkait teknik pelayanan prima (excellent service)?",
+    "pilihan": {
+      "A": "Memberikan buku modul setebal 200 halaman mengenai teori komunikasi publik.",
+      "B": "Melakukan bermain peran (role-play) di mana atasan bertindak sebagai pemohon layanan dan bawahan mempraktikkan respons pelayanan.",
+      "C": "Memasang CCTV di ruang pelayanan untuk memantau gerak-gerik bawahan sepanjang hari.",
+      "D": "Meminta bawahan menandatangani surat pernyataan bersedia melayani dengan ramah.",
+      "E": "Mengevaluasi indeks kepuasan masyarakat tiga bulan setelah pengarahan selesai dilakukan."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Role-play (bermain peran) adalah metode alternatif yang sangat efektif untuk memverifikasi pemahaman (indikator 2.3) secara langsung dan aplikatif pada kompetensi tingkat ini.",
+    "halaman_terkait": "Halaman 2 - Metode Verifikasi Pemahaman"
+  },
+  {
+    "id": 14,
+    "soal": "Saat memberikan petunjuk praktis dalam penyusunan draf Nota Dinas, hal utama yang harus ditekankan oleh seorang atasan yang memiliki kompetensi Level 2 adalah...",
+    "pilihan": {
+      "A": "Filosofi mendalam di balik pembuatan tata naskah dinas nasional.",
+      "B": "Struktur baku, kejelasan substansi informasi, tata bahasa, serta contoh format yang sesuai ketentuan.",
+      "C": "Kebebasan bagi bawahan untuk berkreasi menggunakan desain grafis dan font jenis apa saja.",
+      "D": "Konsekuensi hukum pidana jika terjadi kesalahan penulisan nomor surat.",
+      "E": "Kecepatan pengetikan tanpa perlu memedulikan akurasi ejaan."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Petunjuk praktis (2.1) berfokus pada kejelasan operasional yang mencakup struktur, contoh format baku, dan tata cara pengerjaan yang konkret agar bawahan langsung bisa menirunya dengan benar.",
+    "halaman_terkait": "Halaman 2 - Penyusunan Naskah Dinas"
+  },
+  {
+    "id": 15,
+    "soal": "Ketika bawahan Anda melakukan kesalahan berulang dalam mengonfigurasi jaringan internet kantor setelah Anda menjelaskannya sekali, sikap profesional Anda adalah...",
+    "pilihan": {
+      "A": "Memarahi bawahan tersebut karena dianggap tidak memiliki kapasitas intelektual yang cukup.",
+      "B": "Mengubah metode penjelasan Anda, mungkin dengan menggunakan diagram alur visual atau membimbing tangannya langsung saat konfigurasi.",
+      "C": "Mengambil alih pekerjaan tersebut secara permanen demi efisiensi operasional kantor.",
+      "D": "Meminta bawahan tersebut mengundurkan diri dari tim IT unit kerja.",
+      "E": "Mendiamkan masalah tersebut hingga jaringan internet pulih dengan sendirinya."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Kesalahan berulang dari bawahan menuntut atasan Level 2 untuk mengevaluasi diri dan 'menggunakan metode lain' (seperti diagram visual atau bimbingan kinestetik) untuk memastikan pemahaman.",
+    "halaman_terkait": "Halaman 2 - Indikator Perilaku 2.3 (Metode Lain)"
+  },
+  {
+    "id": 16,
+    "soal": "Indikator perilaku 2.2 berbunyi 'Membantu bawahan untuk mempelajari proses, program atau sistem baru'. Tindakan nyata yang paling mencerminkan hal tersebut di lingkungan birokrasi adalah...",
+    "pilihan": {
+      "A": "Meminta instansi lain untuk melatih bawahan Anda secara cuma-cuma.",
+      "B": "Mendampingi staf saat menginput data ke dalam aplikasi SIPD (Sistem Informasi Pemerintahan Daerah) untuk pertama kalinya.",
+      "C": "Mengirimkan tautan download aplikasi baru melalui grup WhatsApp tanpa penjelasan tambahan.",
+      "D": "Menyusun anggaran studi banding ke luar negeri untuk mempelajari sistem manajemen perkantoran.",
+      "E": "Mewajibkan bawahan membeli laptop baru berspesifikasi tinggi dengan biaya sendiri."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Mendampingi secara langsung proses input data perdana pada aplikasi sistem informasi daerah (SIPD) adalah wujud nyata bantuan adaptasi program/sistem baru bagi bawahan.",
+    "halaman_terkait": "Halaman 2 - Implementasi Indikator 2.2"
+  },
+  {
+    "id": 17,
+    "soal": "Apa perbedaan mendasar antara fokus pengembangan orang lain pada Level 2 dengan Level 1?",
+    "pilihan": {
+      "A": "Level 2 fokus pada pengembangan diri sendiri, sedangkan Level 1 fokus pada pengembangan bawahan.",
+      "B": "Level 1 fokus pada identifikasi kebutuhan belajar diri sendiri, sedangkan Level 2 sudah berfokus aktif meningkatkan kemampuan bawahan langsung melalui contoh nyata.",
+      "C": "Level 1 ditujukan untuk Pejabat Pimpinan Tinggi, sedangkan Level 2 ditujukan untuk staf pelaksana.",
+      "D": "Level 1 menggunakan metode pengajaran formal, sedangkan Level 2 menggunakan metode informal saja.",
+      "E": "Tidak ada perbedaan mendasar, keduanya memiliki indikator perilaku yang sama persis."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Level 1 adalah tahap internal (fokus pada pengembangan diri sendiri), sedangkan Level 2 melangkah ke tahap eksternal tingkat pertama (fokus membimbing/meningkatkan kemampuan bawahan/orang lain).",
+    "halaman_terkait": "Halaman 1 & 2 - Struktur Level Kompetensi"
+  },
+  {
+    "id": 18,
+    "soal": "Seorang atasan yang memiliki kompetensi Level 2 dituntut memberikan 'instruksi yang jelas'. Karakteristik utama dari instruksi yang jelas dalam penugasan dinas adalah...",
+    "pilihan": {
+      "A": "Disampaikan dengan suara yang sangat keras dan ekspresi wajah yang tegas.",
+      "B": "Memiliki tujuan akhir yang spesifik, tenggat waktu yang pasti, tahapan kerja yang logis, dan batasan wewenang yang terang.",
+      "C": "Menggunakan istilah-istilah bahasa asing yang rumit agar terlihat keren dan modern.",
+      "D": "Disampaikan secara mendadak beberapa menit sebelum jam pulang kantor.",
+      "E": "Dibuat sepanjang minimal lima halaman folio agar tidak ada informasi yang terlewat."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Kejelasan instruksi (2.1) diukur dari kelengkapan elemen operasional: tujuan (SMART), tenggat waktu, serta rincian tahapan langkah kerja yang mudah dieksekusi bawahan.",
+    "halaman_terkait": "Halaman 2 - Teknik Pemberian Instruksi"
+  },
+  {
+    "id": 19,
+    "soal": "Dalam menyosialisasikan SOP Mitigasi Bencana Kebakaran di lingkungan kantor kepada pegawai pelayanan, metode Level 2 manakah yang paling komprehensif?",
+    "pilihan": {
+      "A": "Menempelkan lembaran lembar SOP di dinding dekat lift kantor.",
+      "B": "Mengadakan simulasi (drill) evakuasi mandiri, memberikan contoh penggunaan APAR, dan menguji kesiapan staf melalui tanya jawab tak terduga.",
+      "C": "Mengirimkan file PDF dokumen SOP tersebut ke email resmi masing-masing pegawai.",
+      "D": "Meminta pegawai menonton film dokumenter tentang penanganan kebakaran di bioskop.",
+      "E": "Membebankan tanggung jawab keamanan gedung sepenuhnya kepada petugas sekuriti."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Simulasi fisik (drill), pemberian contoh penggunaan alat pemadam api ringan (APAR), dan uji tanya jawab mencakup seluruh indikator Level 2 (memberi contoh, instruksi praktis, dan verifikasi pemahaman).",
+    "halaman_terkait": "Halaman 2 - Kombinasi Indikator Level 2"
+  },
+  {
+    "id": 20,
+    "soal": "Ketika Anda mendapati performa kualitas pelayanan dari salah satu staf front office menurun drastis, langkah awal yang mencerminkan komitmen pengembangan orang lain adalah...",
+    "pilihan": {
+      "A": "Mengusulkan mutasi pegawai tersebut ke bagian gudang belakang sesegera mungkin.",
+      "B": "Melakukan konseling, memberikan contoh standar keramahan kembali, serta mendampingi kinerjanya pada sesi pelayanan berikutnya.",
+      "C": "Memotong tunjangan kinerja pegawai tersebut sebagai efek jera tanpa perlu konfirmasi.",
+      "D": "Membiarkannya saja karena menganggap fluktuasi suasana hati (mood) dalam bekerja adalah hal lumrah.",
+      "E": "Menggantikan posisinya dengan robot atau mesin anjungan pelayanan mandiri."
+    },
+    "jawaban_benar": "B",
+    "penjelasan": "Melakukan intervensi perbaikan berupa konseling (mencari tahu kendala), memberikan contoh ulang (role modeling), dan pendampingan praktis adalah esensi dari kompetensi pengembangan orang lain di level pengawas.",
+    "halaman_terkait": "Halaman 2 - Evaluasi Kinerja dan Bimbingan"
+  }
+]
